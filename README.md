@@ -33,7 +33,7 @@ gap by providing free, intelligent tutoring to any student with internet access.
 
 - **Language**: Python 3.10+
 - **UI Framework**: Streamlit
-- **AI Model**: Google Gemini 1.5 Flash (via Google Generative AI API)
+- **AI Model**: Google Gemini 3.5 Flash (via Google Generative AI API)
 - **Deployment**: Streamlit Cloud (free)
 
 ---
