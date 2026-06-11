@@ -38,35 +38,6 @@ gap by providing free, intelligent tutoring to any student with internet access.
 
 ---
 
-## 🚀 How to Run Locally
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/eduai-study-assistant.git
-cd eduai-study-assistant
-```
-
-### Step 2: Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Add your Gemini API key
-Open `app.py` and replace:
-```python
-API_KEY = "YOUR_GEMINI_API_KEY_HERE"
-```
-with your actual API key from https://aistudio.google.com
-
-### Step 4: Run the app
-```bash
-streamlit run app.py
-```
-
-The app will open at `http://localhost:8501`
-
----
-
 ## 🔑 Getting a Free Gemini API Key
 
 1. Go to https://aistudio.google.com
